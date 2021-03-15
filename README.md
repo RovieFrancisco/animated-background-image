@@ -1,4 +1,4 @@
-# animated-background-image
+# Animated-Background-Image
 This is a simple background changing Animation using Fade In and Out Transition.
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
